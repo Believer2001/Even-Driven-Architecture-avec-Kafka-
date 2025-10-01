@@ -36,8 +36,8 @@ public class PageEventHandler {
     {
         return ()->{
             return new PageEvent(
-                    Math.random()>0.5?"U1":"U2",
                     Math.random()>0.5?"P1":"P2",
+                    Math.random()>0.5?"U1":"U2",
                     new Date(),
                     10 +new java.util.Random().nextInt(10000));
         };

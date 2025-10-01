@@ -94,3 +94,7 @@ pour l'envoi des  des evenement relatif à toutes les pages. On definit ensuite 
 ![test](./image/img8.png)
 ![test](./image/img9.png)
 
+<h2>Affichage du tableau de Bord en realtime</h2>
+![test](./image/img10.png)
+![test](./image/img11.png)
+
