@@ -63,5 +63,20 @@ docker-compose up -d
 ```
 </p>
 
-![lancement des conteneurs](./images/image1.png)
-![lancement des conteneurs](./images/image2.png)
+![lancement des conteneurs](./image/img1.png)
+![lancement des conteneurs](./image/img2.png)
+
+
+<h2>Implementation de la logique de publicqtion et de la consmmation dess évenements </h2>
+
+
+<p> Nous avons créer deux package,controller et events  qui  vont contenir respectivements les controller de notre web applcation et les dto
+pour l'envoi des  des evenement relatif à toutes les pages. On definit ensuite un dto et pageEvent et  controller pageEventController  pour servir les requette 
+</p>
+
+![implementation](./image/img3.png)
+#### Test de l'api de publication des évenements
+<p> Nous utilisons un navigateur chrome pour tester : </p>
+
+![test](./image/img4.png)
+
