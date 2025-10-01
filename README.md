@@ -79,4 +79,18 @@ pour l'envoi des  des evenement relatif à toutes les pages. On definit ensuite 
 <p> Nous utilisons un navigateur chrome pour tester : </p>
 
 ![test](./image/img4.png)
+<p> Nous tester le cosummer que nous   avons developpé</p>
+
+![test](./image/img5.png)
+
+<p> Nous  avons l'execution de notre supplier </p>
+
+![test](./image/img6.png)
+
+<p> Pour la partie a analytics nous implementons une fonction kstreamFunction qui consomme 
+ les messsge qdu supplier dans T3 et fait une publication  dans une autre topic T4</p>
+
+![test](./image/img7.png)
+![test](./image/img8.png)
+![test](./image/img9.png)
 
